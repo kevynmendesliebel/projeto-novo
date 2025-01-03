@@ -173,11 +173,11 @@ article {
 
 }
 
-
 div.video {
     background-color: var(--cor06);
-    margin: 0px 0px 35px 0px;
-    padding: 208px;
+    margin: 0px 0px 30px -2px;
+    padding: 20px;
+    padding-bottom: 58%;
     position: relative;
 }
 
